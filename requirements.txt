@@ -2,3 +2,16 @@ crewai
 crewai_tools
 load_dotenv
 langchain-huggingface
+# PostgreSQL and vector search dependencies
+psycopg2-binary
+sqlalchemy
+pgvector
+# OpenAI for embeddings
+openai
+# Caching
+redis
+# Additional utilities
+python-dotenv
+pydantic
+numpy
+typing-extensions
